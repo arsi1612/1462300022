@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366329643683",
+    "project_id": "remidipab1462300022",
+    "storage_bucket": "remidipab1462300022.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366329643683:android:7c65af88948b46304a3516",
+        "android_client_info": {
+          "package_name": "com.example.remidipab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2fx0Fp88JcqviHqCJU_8F9kFi-Qesw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
